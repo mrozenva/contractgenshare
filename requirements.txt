@@ -1,0 +1,10 @@
+Flask==2.3.3
+requests==2.31.0
+openai==0.28.0
+python-docx==0.8.11
+Flask-Cors==4.0.0
+Werkzeug==2.3.7
+docx2pdf==0.1.8
+reportlab==4.0.5
+docxtpl==0.16.7
+nltk==3.8.1
